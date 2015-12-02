@@ -1,4 +1,7 @@
+
 ###About the Course
+
+[Probability]
 
 The renowned mathematical physicist Pierre-Simon, Marquis de Laplace wrote in his opus on probability in 1812 that “the most important questions of life are, for the most part, really only problems in probability”.  His words ring particularly true today in this the century of “big data”.
 
@@ -41,3 +44,5 @@ While the lectures are designed to be self-contained and there is no required te
 The main body of the course consists of 240 video lectures in total of which 20 video lectures contain review materials for students who wish to refresh their background and 71 video lectures contain optional, more theoretical material.  A typical video lecture ranges between 5 minutes to 15 minutes in length.  These lectures are grouped into twelve “tableaux”, each tableau consisting of a comprehensive exploration of a key idea, rather like a chapter in a book. Each of the topics listed above will be covered by two to three tableaux comprising one to two weeks of lectures.  A serious student of a subject is not an idle spectator to a variety show but learns best by active engagement.  There are accordingly seven standalone graded homework sets that are not part of the video lectures.
 
 Bonus lectures are scattered through the sequence: these take the form of optional “dangerous bend” tableaux and deal with topics that are informative digressions from the main theme.  Think of these as fragrant, frequently exotic, and sometimes dangerous tributaries branching from the main course of the river of probability.  A student can safely explore these at leisure, as time and inclination allow, either during the course as they arise or at a later time.   (But she may well find the ideas explored in these tableaux too enticing to skip. This, at least, was the experience of the instructor when he first encountered these tempting topics.) 
+
+[Probability]:https://www.coursera.org/course/probability
