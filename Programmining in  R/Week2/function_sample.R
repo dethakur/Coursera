@@ -1,0 +1,4 @@
+above <- function(x){
+  y = x > 10
+  x[y]
+}
