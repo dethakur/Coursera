@@ -4,8 +4,8 @@ In this data centric era, statistics has become an essential tool for processing
 
 ##Developed in collaboration with Johns Hopkins Open Education Lab.
 ##Course Syllabus
-*study designs for comparing populations
-*single sample numerical summary measures for continuous, binary and time-to-event outcomes
+#study designs for comparing populations
+#single sample numerical summary measures for continuous, binary and time-to-event outcomes
 *visual displays for continuous and time-to-event outcomes
 *the normal (Gaussian) distribution
 *measures of association: mean differences, risk differences, relative risks, odds ratios and incidence rate ratios
