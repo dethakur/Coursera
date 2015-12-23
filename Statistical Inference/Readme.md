@@ -4,11 +4,10 @@ In this data centric era, statistics has become an essential tool for processing
 
 ##Developed in collaboration with Johns Hopkins Open Education Lab.
 ##Course Syllabus
-study designs for comparing populations
-single sample numerical summary measures for continuous, binary and time-to-event outcomes
-visual displays for continuous and time-to-event outcomes
-the normal (Gaussian) distribution
-measures of association: mean differences, risk differences, relative risks, odds ratios and incidence rate ratios
-confidence intervals for means, mean differences, proportions, relative risks, odds ratios, incidence rates and incidence rate ratios
-hypothesis testing: paired and two-sample t-tests, the chi-square test, Fisher's exact test, and the log-rank test
-power and sample size  (optional)
+* study designs for comparing populations
+* single sample numerical summary measures for continuous, binary and time-to-event outcomes
+* visual displays for continuous and time-to-event outcomes
+* the normal (Gaussian) distribution
+* measures of association: mean differences, risk differences, relative risks, odds ratios and * incidence rate ratios confidence intervals for means, mean differences, proportions, relative risks, odds ratios, incidence rates and incidence rate ratios
+* hypothesis testing: paired and two-sample t-tests, the chi-square test, Fisher's exact test, and the log-rank test
+* power and sample size  (optional)
